@@ -1,3 +1,4 @@
+#this is how i find the factors of a number 
 x=input()
 x=int(x)
 def print_factors(x):
