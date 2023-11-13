@@ -43,5 +43,34 @@ n = 12
 answer = 0
 for i in range(1, n+1):
     if n % i == 0:
+
+
+
+
         answer += i
 print('Answer=' + str(answer))
+
+
+
+
+print("what is your hourly pay?")
+input()=x
+print("how many hours will you work per day")
+input()=y
+
+def pay_byyear()
+   print(x*y*365)
+
+
+]
+   
+   
+
+
+
+
+
+
+
+
+
